@@ -1,0 +1,25 @@
+body {
+    background-color: azure ;
+    color: palevioletred;
+    font-family: verdana;
+    font-size: 100%
+}
+
+h1 {
+    text-align: center;
+    color: indigo;
+    font-family: verdana;
+    font-size: 100%;
+}
+
+h3 {
+    color: indigo;
+    font-family: verdana;
+    font-size: 100%;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
